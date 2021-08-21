@@ -7,7 +7,6 @@ const logger = (req, res, next) => {
         `\n ${req.method}:${req.protocol}://${req.get('host')}${req.originalUrl}    :${moment().format()}`,
         err => {
             if (err) throw err;
-            console.log('log registered');
         });
 
 
