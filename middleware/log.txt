@@ -1,0 +1,24 @@
+
+ http://localhost:4000/user/40
+ http://localhost:4000/user/100
+ http://localhost:4000/user
+ http://localhost:4000/user/30
+ http://localhost:4000/user/30
+ http://localhost:4000/user/30
+ http://localhost:4000/user/
+ http://localhost:4000/user/20
+ http://localhost:4000/user/20/2323
+ undefined:http://localhost:4000/user/50
+ GET:http://localhost:4000/user/50
+ POST:http://localhost:4000/user
+ GET:http://localhost:4000/user
+ GET:http://localhost:4000/user
+undefined
+ POST:http://localhost:4000/user
+ GET:http://localhost:4000/user/35019165-6eb6-4fbe-ba27-0395f2302f28
+ GET:http://localhost:4000/user/60
+ GET:http://localhost:4000/user/60:$moment().format()
+ GET:http://localhost:4000/user/60:2021-08-21T16:22:12+05:30
+ GET:http://localhost:4000/user/10:  2021-08-21T16:22:32+05:30 
+ GET:http://localhost:5032/user:  2021-08-21T16:26:11+05:30
+ GET:http://localhost:5032/user    :2021-08-21T16:27:06+05:30
